@@ -6,7 +6,7 @@
       "name": "Coronet Employee",
       "bundleIdentifier": "com.coronet.employeemobile",
       "developerName": "Coronet",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "versionDate": "2026-01-15",
       "downloadURL": "https://github.com/aikansh-dua/iOS_app_coronetemployee/releases/download/iOS/employeemobile.ipa",
       "localizedDescription": "Employee management app for attendance tracking, site visits, leave requests, and payment requests",
@@ -26,7 +26,7 @@
       ],
       "changelog": [
         {
-          "version": "1.0.1",
+          "version": "1.0.0",
           "date": "2026-01-15",
           "changes": [
             "Initial release",
