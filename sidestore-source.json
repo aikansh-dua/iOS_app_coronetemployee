@@ -1,0 +1,36 @@
+{
+  "name": "Coronet Employee",
+  "bundleIdentifier": "com.coronet.employeemobile",
+  "version": "1.0.0",
+  "versionDate": "2026-01-15",
+  "downloadURL": "https://github.com/F0ur-Arms/Coronet_Employee_Management_System/releases/download/iOS/employeemobile.ipa",
+  "localizedDescription": "Employee management app for attendance tracking, site visits, leave requests, and payment requests",
+  "iconURL": "https://github.com/F0ur-Arms/Coronet_Employee_Management_System/releases/download/iOS/icon.png",
+  "tintColor": "#2F1E7F",
+  "size": 9543680,
+  "subtitle": "Employee Management",
+  "screenshots": [],
+  "permissions": [
+    {
+      "type": "location",
+      "usageDescription": "This app needs location access to track attendance and site visits."
+    },
+    {
+      "type": "notifications",
+      "usageDescription": "This app needs notification access to send you important updates and announcements."
+    }
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-01-15",
+      "changes": [
+        "Initial release",
+        "Attendance tracking",
+        "Site visit management",
+        "Leave and payment requests",
+        "Location tracking"
+      ]
+    }
+  ]
+}
