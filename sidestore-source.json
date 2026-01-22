@@ -3,7 +3,7 @@
   "identifier": "com.coronet.employeemobile.source",
   "apps": [
     {
-      "name": "Coronet Employee",
+      "name": "Coronet Engineers",
       "bundleIdentifier": "com.coronet.employeemobile",
       "developerName": "Coronet",
       "version": "1.0.0",
